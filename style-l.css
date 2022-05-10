@@ -2,7 +2,7 @@
 
 body {
     margin: 24px 10px;
-    font-family: Arial, 'Taipei Sans TC Beta', sans-serif;
+    font-family: Typo_SsangmunDong, sans-serif;
 }
 
 
@@ -72,7 +72,7 @@ header {
 nav {
     float: right;
     font-size: 15px;
-    font-family: 'Maven Pro', Helvetica, Arial, sans-serif;
+    font-family: Typo_SsangmunDong, sans-serif;
     padding-top: 30px;
 }
 
@@ -135,7 +135,7 @@ header {
 
 #headerpost .more {
     font-size: 18px;
-    font-family: 'Maven Pro', Helvetica, Arial, sans-serif;
+    font-family: Typo_SsangmunDong, sans-serif;
     text-align: right;
 }
 
@@ -152,12 +152,6 @@ header {
 
 #headerpost {
     background-color: #333333;
-    background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#888888));
-    background: -webkit-linear-gradient(#000000 0%, #888888 100%);
-    background: -moz-linear-gradient(#000000 0%, #888888 100%);
-    background: -o-linear-gradient(#000000 0%, #888888 100%);
-    background: -ms-linear-gradient(#000000 0%, #888888 100%);
-    background: linear-gradient(#000000 0%, #888888 100%);
     overflow: hidden;
 }
 
@@ -195,7 +189,7 @@ header {
     float: right;
     color: #ffffff;
     font-size: 14px;
-    font-family: 'Macen Pro', Helvetica, Arial, sans-serif;
+    font-family: Typo_SsangmunDong, sans-serif;
     background-color: #666666;
     background-image: url(img/more.png);
     background-size: 16px;
@@ -259,7 +253,7 @@ footer p {
 
 #submenu {
     clear: both;
-    font-family: 'Maven Pro', Helvetica, Arial, san-serif;
+    font-family: Typo_SsangmunDong, sans-serif;
     font-size: 12px;
     overflow: hidden;
 }
